@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671833872 source:c:\users\pescar\documents\codeblocks\ejercicios\generala\main.cpp
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<windows.h>
+
